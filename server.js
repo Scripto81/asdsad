@@ -1,4 +1,4 @@
-```javascript
+javascript
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 8080;
@@ -73,4 +73,3 @@ setInterval(() => {
 app.listen(port, host, () => {
     console.log(`[${new Date().toISOString()}] HTTP server running on ${host}:${port}`);
 });
-```
