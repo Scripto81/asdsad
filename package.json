@@ -1,4 +1,4 @@
-```json
+json
 {
   "name": "roblox-control-server",
   "version": "1.0.0",
@@ -14,4 +14,3 @@
     "node": ">=14"
   }
 }
-```
